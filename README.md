@@ -54,7 +54,7 @@ Daftar Nama Anggota Team
         </tbody>
     </table>
 
-Institusi: [Politeknik Elektronika Negeri Surabaya / Teknik Elektronika]
+Politeknik Elektronika Negeri Surabaya / D4 Teknik Elektronika
 
 # Fitur Utama
 🔹 Deteksi kondisi mata secara real-time dengan **MediaPipe FaceMesh**.  
