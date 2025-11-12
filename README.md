@@ -100,12 +100,12 @@ Institusi: [Politeknik Elektronika Negeri Surabaya / Teknik Elektronika]
 2. Jalankan program utama:
 
     python main.py
- # Simulasi
- https://youtu.be/kfFjYyOKzzY
-
 
 4. Pilih mode User atau Developer dari antarmuka utama.
 
 5. Izinkan akses kamera saat diminta.
 
 6. Aplikasi akan mulai mendeteksi dan menampilkan waktu penggunaan layar.
+
+ # Simulasi
+ https://youtu.be/kfFjYyOKzzY
