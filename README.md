@@ -2,6 +2,7 @@
 Sistem ini menggunakan metode **Eye Aspect Ratio (EAR)** berbasis **MediaPipe FaceMesh** untuk mendeteksi kondisi mengantuk secara real-time. Ketika nilai EAR berada di bawah ambang batas selama beberapa frame berturut-turut, sistem menampilkan **peringatan otomatis** agar pengguna tetap waspada. 
 
 # Pengembang
+![Image](https://github.com/user-attachments/assets/b30387c8-218f-43f2-9b8d-afb748fdf2d6)
 Nama: 
 - Alwansyah Muhammad M.E. (2122600031)  
 - Balqis Sofi Nurani (2122600034)  
