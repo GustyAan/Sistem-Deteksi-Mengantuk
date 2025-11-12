@@ -48,4 +48,19 @@ Institusi: [Politeknik Elektronika Negeri Surabaya / Teknik Elektronika]
 
 🔹 Threading – eksekusi paralel kamera & logika deteksi.
 
-# Cara Menjalankan Pr
+# Cara Menjalankan Program
+1. Pastikan Python 3 dan pustaka berikut telah terpasang:
+
+    pip install opencv-python tk matplotlib
+
+
+2. Jalankan program utama:
+
+    python main.py
+
+
+3. Pilih mode User atau Developer dari antarmuka utama.
+
+4. Izinkan akses kamera saat diminta.
+
+5. Aplikasi akan mulai mendeteksi dan menampilkan waktu penggunaan layar.
