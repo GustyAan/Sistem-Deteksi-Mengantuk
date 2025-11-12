@@ -1,7 +1,5 @@
 # Sistem-Deteksi-Mengantuk
-Sistem ini menggunakan metode **Eye Aspect Ratio (EAR)** berbasis **MediaPipe FaceMesh** untuk mendeteksi kondisi mengantuk secara real-time.  
-Ketika nilai EAR berada di bawah ambang batas selama beberapa frame berturut-turut, sistem menampilkan **peringatan otomatis** agar pengguna tetap waspada.  
-Proyek ini bertujuan untuk membantu mencegah risiko akibat kelelahan atau kantuk, terutama saat bekerja atau berkendara.
+Sistem ini menggunakan metode **Eye Aspect Ratio (EAR)** berbasis **MediaPipe FaceMesh** untuk mendeteksi kondisi mengantuk secara real-time. Ketika nilai EAR berada di bawah ambang batas selama beberapa frame berturut-turut, sistem menampilkan **peringatan otomatis** agar pengguna tetap waspada. 
 
 # Pengembang
 Nama: 
