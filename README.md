@@ -31,7 +31,7 @@ Institusi: [Politeknik Elektronika Negeri Surabaya / Teknik Elektronika]
 🔹 Pembuatan file .exe dengan **PyInstaller** untuk kemudahan distribusi.
 
 # Arsitektur Sistem
-<img width="1156" height="891" alt="image" src="https://github.com/user-attachments/assets/xxxxxx" />
+<img width="734" height="425" alt="Image" src="https://github.com/user-attachments/assets/5358b386-5fbe-4a10-8c63-8acec72b8546" />
 
 # Teknologi yang Digunakan
 🔹 Python versi 3 + (lebih dari 3)  
