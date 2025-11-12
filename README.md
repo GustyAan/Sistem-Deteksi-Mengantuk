@@ -76,6 +76,17 @@ Institusi: [Politeknik Elektronika Negeri Surabaya / Teknik Elektronika]
 # Arsitektur Sistem
 <img width="734" height="425" alt="Image" src="https://github.com/user-attachments/assets/5358b386-5fbe-4a10-8c63-8acec72b8546" />
 
+# Tampilan GUI
+1. Halaman Awal
+<img width="758" height="586" alt="Image" src="https://github.com/user-attachments/assets/aad19b4c-7f91-49ab-a035-337145573198" />
+
+2. Mode Developer
+<img width="758" height="586" alt="Image" src="https://github.com/user-attachments/assets/6288d20b-94ac-41c7-b88b-4c50cd357d7a" />
+
+3. Mode User
+<img width="758" height="586" alt="Image" src="https://github.com/user-attachments/assets/3adc741d-e434-475c-b23c-78e01f330354" />
+<img width="758" height="586" alt="Image" src="https://github.com/user-attachments/assets/2610cbba-08e9-4a4b-b506-a1db9c069e29" />
+
 # Teknologi yang Digunakan
 🔹 Python versi 3 + (lebih dari 3)  
 
@@ -107,5 +118,5 @@ Institusi: [Politeknik Elektronika Negeri Surabaya / Teknik Elektronika]
 
 6. Aplikasi akan mulai mendeteksi dan menampilkan waktu penggunaan layar.
 
- # Simulasi
- https://youtu.be/kfFjYyOKzzY
+ # Demo
+ https://github.com/user-attachments/assets/267c6081-1a70-430b-bac5-11d9e9f0440b
